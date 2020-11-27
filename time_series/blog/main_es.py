@@ -1,4 +1,4 @@
-from statsmodels.tsa.api import ExponentialSmoothing seasonal_decompose
+from statsmodels.tsa.api import ExponentialSmoothing, seasonal_decompose
 import statsmodels
 import pandas as pd
 import numpy as np
